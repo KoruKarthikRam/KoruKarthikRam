@@ -399,6 +399,8 @@ Open To:
 <div align="center">
 
 *"Code is the closest thing we have to magic — write it deliberately."*
+<br/>
+🚀 Open to Software Engineering Internships & Full-Time SDE Opportunities • [📄 Resume](https://github.com/KoruKarthikRam/KoruKarthikRam/blob/main/Karthik_Ram_Koru_Resume.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ec,50:6a3093,100:1a1a2e&height=120&section=footer" width="100%"/>
 
