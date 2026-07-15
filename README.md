@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:8e44ec&height=220&section=header&text=Karthik Ram Koru &fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a3093,100:8e44ec&height=220&section=header&text=Karthik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A66CFF&center=true&vCenter=true&width=560&lines=Building+scalable+full-stack+systems;Exploring+AI+%2F+ML+engineering;Preparing+for+SDE+roles+%40+Top+Product+Companies;Open+to+Full-Time+%2F+Internship+opportunities" alt="Typing SVG" />
