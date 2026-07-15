@@ -291,6 +291,39 @@ Successfully completed advanced training in Data Structures, Algorithms, Competi
 <br/>
 
 ---
+## 🔥 LeetCode Heatmap
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/karthikram02?theme=dark&font=Nunito&ext=heatmap" width="100%"/>
+
+</div>
+
+<br/>
+
+## 📊 LeetCode Analytics
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/karthikram02?theme=dark&font=Nunito&ext=contest" width="49%"/>
+
+<img src="https://leetcard.jacoblin.cool/karthikram02?theme=dark&font=Nunito" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🏆 LeetCode Profile
+
+<div align="center">
+
+<a href="https://leetcode.com/u/karthikram02/">
+<img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Analytics
 
