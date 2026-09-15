@@ -313,8 +313,7 @@ Successfully completed advanced training in Data Structures, Algorithms, Competi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KoruKarthikRam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a66cff&icon_color=8e44ec&text_color=c9d1d9" width="49%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=KoruKarthikRam&show_icons=true&theme=tokyonight" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=KoruKarthikRam&theme=tokyonight&hide_border=true&background=0d1117&ring=8e44ec&fire=a66cff&currStreakLabel=a66cff" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoruKarthikRam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a66cff&text_color=c9d1d9" width="49%"/>
